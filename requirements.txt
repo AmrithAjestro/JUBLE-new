@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+PyPDF2
+reportlab
+groq
+python-docx
+deep-translator
+python-dotenv
+joblib
+matplotlib
+scikit-learn
+xgboost
+imbalanced-learn

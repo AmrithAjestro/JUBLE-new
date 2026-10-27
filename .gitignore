@@ -1,0 +1,40 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Environments & secrets
+.venv/
+venv/
+.env
+.env.*
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Models & logs (adjust as you like)
+models/*.pkl
+models/*.bin
+models/*.onnx
+models/*.safetensors
+models/metrics_log.csv
+
+# Other
+JUBLIE/
+*.log
+
+# Local user data
+user_db.json
+complaints.txt
+
+# Training artefacts
+results/
+logs/
+models/best_bert_model/
+models/pipeline_cache/
+models/confusion_matrix.png
